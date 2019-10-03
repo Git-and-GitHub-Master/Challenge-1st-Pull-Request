@@ -11,6 +11,8 @@ The submission for this challenge is different from what you've been doing. All 
 1. Paste the URL into the box. You may also leave a comment.
 1. Click on the **Submit Assignment** button to finalize the submission.
 
+<img src="assets/images/url-submission-box.png">
+
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
 [slides]: <{{site.data.assignment.slides}}>
