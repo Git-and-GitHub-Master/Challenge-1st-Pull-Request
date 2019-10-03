@@ -4,6 +4,8 @@ layout: tabbed-assignment
 
 # Instructions
 
+After working through the [Hello, World!](https://guides.github.com/activities/hello-world/) guide try your hand at the process by making a fork of the class repository list and adding a link to your repository. The create a pull request so that your changes can be incorporated into the list.
+
 1. Make a fork the class repository list, [SKHS-GDP-2019-2020/Class-Repositories](https://github.com/SKHS-GDP-2019-2020/Class-Repositories).
 1. Create a branch for your changes, the name of the branch _could_ be anything, but a name that explains the purpose of the branch is great. For example, I might name a branch ```adding_doug_urner```.
 1. Read the description of how the **index.md** file works in **README.md** (which is the file that is displayed when you go to the repository).
