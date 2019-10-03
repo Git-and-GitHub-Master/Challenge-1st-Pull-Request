@@ -4,10 +4,11 @@ layout: tabbed-assignment
 
 # Learning Targets
 
-I can:
-
-* 
-* 
+After completing this challenge you should feel confident in your ability to:
+* Fork a repository on GitHub.
+* Create a branch.
+* Look for and mimic patterns in code.
+* Create a pull request.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
