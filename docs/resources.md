@@ -4,6 +4,13 @@ layout: tabbed-assignment
 
 # Resources
 
+### GitHub Guides
+
+* [Hello, World!](https://guides.github.com/activities/hello-world/)
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+* [Forking Projects](https://guides.github.com/activities/forking/)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
 {% if site.data.assignment.slides %}
 * [Presentation Slides][slides]
 {% endif %}
