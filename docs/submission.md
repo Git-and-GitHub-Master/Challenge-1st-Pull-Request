@@ -12,7 +12,7 @@ The submission for this challenge is different from what you've been doing. All 
 1. Click on the **Submit Assignment** button to finalize the submission.
 1. After submitting the assignment, keep an eye out for comments on your pull request -- I may want you to correct mistakes -- by default comments will come as e-mail messages and you will also see a blue dot on the bell icon in the upper righthand corner of your GitHub window. Check often (at least once per class) and respond promptly (the same day).
 
-<img src="assets/images/url-submission-box.png" max-width="100%">
+<img src="assets/images/url-submission-box.png" width="100%">
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
