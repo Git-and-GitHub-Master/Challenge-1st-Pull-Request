@@ -10,6 +10,8 @@ Here's a challenge! After creating your GitHub account and learning about how to
 
 Don't dawdle, this is a limited time offer -- once we start using GitHub on a regular basis, I will add any missing links myself and close this assignment. Be sure to check the close date.
 
+[hw]: <https://guides.github.com/activities/hello-world/>
+
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
 [slides]: <{{site.data.assignment.slides}}>
