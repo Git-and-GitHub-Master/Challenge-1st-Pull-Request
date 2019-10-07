@@ -8,6 +8,7 @@ After working through the [Hello, World!](https://guides.github.com/activities/h
 
 1. Make a fork the class repository list, [SKHS-GDP-2019-2020/Class-Repositories](https://github.com/SKHS-GDP-2019-2020/Class-Repositories).
 1. Create a branch for your changes, the name of the branch _could_ be anything, but a name that explains the purpose of the branch is great. For example, I might name a branch ```adding_doug_urner```.
+It is _highly_ likely that others in the class will be editing ```index.md``` at the same time and that I will be mergining their changes &mdash; so your fork may get behind the "official" copy. Being on a branch will make it much easier to pich up any changes that happend after you forked the repository.
 1. Read the description of how the **index.md** file works in **README.md** (which is the file that is displayed when you go to the repository).
 1. Then click on **index.md** in the file list and experiment with how it works:
    - Expand and collapse the sections for each block.
